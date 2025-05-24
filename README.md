@@ -16,7 +16,10 @@
 📧 Contacto: rgerjosue23@gmail.com
 ```
 ### 🧰 Herramientas y Tecnologías
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,js,git,html,css,cplusplus,dart,sql" alt="Skill Icons" /> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,html,css,js,dart,cpp,visualstudio,vscode,github" alt="Skill Icons" />
+</p>
+
 
 ### 📈 Mis estadísticas
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rgamercm&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgamercm&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180"> </p>
