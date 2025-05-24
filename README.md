@@ -1,24 +1,30 @@
-# ¡Hola! 👋 Soy Roger Garcia
+<!-- Futuristic GitHub Profile for Roger Garcia -->
+<h1 align="center">🚀 Roger Garcia | @rgamercm</h1>
 
-### 🌱 Sobre mí    
-- 🔭 Actualmente estoy aprendiendo: `Python`, `JavaScript`, `Git`, `C++`, `HTML`, `CSS`, `Dart`, `SQL`.
-- 📚 Estudiando: [Python].
-- 💡 Me interesa: [Desarrolo web, aplicaciones mobiles y ciberseguridad].
-- 📫 Cómo contactarme: (rgerjosue23@gmail.com).
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Roger+Garcia;Apasionado+por+la+tecnolog%C3%ADa+y+el+desarrollo;Bienvenido+a+mi+universo+de+c%C3%B3digo+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-### 🛠 Tecnologías
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+---
 
-### 📊 Estadísticas
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=rgamercm&show_icons=true&theme=radical)   
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=rgamercm&layout=compact)
+### 🌌 Sobre mí
+```bash
+👨‍💻 Nombre: Roger Garcia
+🧠 Aprendiendo: Python | JavaScript | Git | C++ | HTML | CSS | Dart | SQL
+🚀 Intereses: Desarrollo Web | Apps Móviles | Ciberseguridad
+📧 Contacto: rgerjosue23@gmail.com
+```
+### 🧰 Herramientas y Tecnologías
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,js,git,html,css,cplusplus,dart,sql" alt="Skill Icons" /> </p>
 
-### 🔥 Proyectos Destacados
-- [Proyecto 1](https://github.com/rgamercm/Metodo_de_gauss)
+### 📈 Mis estadísticas
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rgamercm&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgamercm&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180"> </p>
 
+### 🌟 Proyectos Destacados
+🚧 Estoy construyendo ideas. Por ahora, échale un vistazo a esto:
 
-### 📌 Frase motivadora
-> "El código es poesía lógica." — Anónimo
+🔬 Método de Gauss
+
+### ✨ Frase que me inspira
+"El código es poesía lógica." — Anónimo
+
