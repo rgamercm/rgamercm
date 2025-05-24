@@ -2,8 +2,9 @@
 <h1 align="center">🚀 Roger Garcia | @rgamercm</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Roger+Garcia;Apasionado+por+la+tecnolog%C3%ADa+y+el+desarrollo;Bienvenido+a+mi+universo+de+c%C3%B3digo+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Roger+Garcia;Apasionado+por+la+tecnolog%C3%ADa+y+el+desarrollo;Bienvenido+a+mi+universo+de+c%C3%B3digo+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
+
 
 ---
 
